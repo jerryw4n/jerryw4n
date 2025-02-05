@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/jerryw4ng/">Jerry Wang</a>'s Project Portfolio
 
-### **I am pursuing a degree in Information Technology while actively seeking internships and research opportunities to gain practical experience. My goal is to apply my knowledge, develop expertise, and collaborate with industry professionals to become a well-rounded candidate.**
+### **I am pursuing a degree in Information Technology at the University of Central Florida while actively seeking internships and research opportunities to gain practical experience. My goal is to apply my knowledge, develop expertise, and collaborate with industry professionals to become a well-rounded candidate.**
 
 
 ## Cryptography Projects
