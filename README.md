@@ -1,16 +1,24 @@
-## Hi there 👋
+# <a href="https://www.linkedin.com/in/jerryw4ng/">Jerry Wangr</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<!--
-**jerryw4n/jerryw4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing a degree in Information Technology. I am also actively seeking learning opportunities through internships and research. I aim to deepen my understanding of the field, apply my knowledge to real-world problems, and build a solid foundation of practical experience. I am eager to develop my professional brand, enhancing my skills and expertise through hands-on projects and collaboration with industry professionals. By engaging in these opportunities, I want to be a well-rounded and knowledgeable candidate, ready to contribute effectively to any team or organization.
 
-Here are some ideas to get you started:
+## Cryptography Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[ElGamal Encryption](https://github.com/jerryw4n/ElGamalDecoder)**
+- **[RSA Encryption](https://github.com/jerryw4n/RSAEncryptionDecoder)**
+- **[Vigenere Cipher](https://github.com/jerryw4n/vigenereDecoder)**
+- **[Playfair Cipher](https://github.com/jerryw4n/playfairEncoder)**
+- **[Affine Cipher](https://github.com/jerryw4n/affineEncoder)**
+
+## Class Projects
+
+- **[Connect Four](https://github.com/jerryw4n/connectFourReactJS)**
+- **[Pet Care Website](https://github.com/jerryw4n/PetCareWebsite)**
+
+<hr/>
+
+## Connect With Me
+
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/jerryw4ng
