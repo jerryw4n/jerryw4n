@@ -15,8 +15,6 @@ I am currently pursuing a degree in Information Technology. I am also actively s
 - **[Connect Four](https://github.com/jerryw4n/connectFourReactJS)**
 - **[Pet Care Website](https://github.com/jerryw4n/PetCareWebsite)**
 
-<hr/>
-
 ## Connect With Me
 
 - **[LinkedIn](https://www.linkedin.com/in/jerryw4ng/)**
