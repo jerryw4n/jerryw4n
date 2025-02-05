@@ -1,6 +1,6 @@
-# <a href="https://www.linkedin.com/in/jerryw4ng/">Jerry Wang</a>'s Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jerryw4ng/">Jerry Wang</a>'s Project Portfolio
 
-I am currently pursuing a degree in Information Technology. I am also actively seeking learning opportunities through internships and research. I aim to deepen my understanding of the field, apply my knowledge to real-world problems, and build a solid foundation of practical experience. I am eager to develop my professional brand, enhancing my skills and expertise through hands-on projects and collaboration with industry professionals. By engaging in these opportunities, I want to be a well-rounded and knowledgeable candidate, ready to contribute effectively to any team or organization.
+I am pursuing a degree in Information Technology while actively seeking internships and research opportunities to gain practical experience. My goal is to apply my knowledge, develop expertise, and collaborate with industry professionals to become a well-rounded candidate.
 
 ## Cryptography Projects
 
