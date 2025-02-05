@@ -19,6 +19,4 @@ I am currently pursuing a degree in Information Technology. I am also actively s
 
 ## Connect With Me
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/jerryw4ng
+- **[LinkedIn](https://www.linkedin.com/in/jerryw4ng/)**
