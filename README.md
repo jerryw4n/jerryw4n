@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/jerryw4ng/">Jerry Wang</a>'s Project Portfolio
+# <div align="center"><a href="https://www.linkedin.com/in/jerryw4ng/">Jerry Wang</a>'s Project Portfolio
 
 ### Senior Information Technology Student at the University of Central Florida
 
