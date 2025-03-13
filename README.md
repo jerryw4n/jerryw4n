@@ -14,7 +14,7 @@
 
 ## 💻 Class Projects
 
-- **[Connect Four](https://github.com/jerryw4n/connectFourReactJS)**
+- **[Connect Four](https://github.com/jerryw4n/connectFour)**
 - **[Pet Care Website](https://github.com/jerryw4n/PetCareWebsite)**
 
 ## 🌐 Connect With Me
