@@ -4,7 +4,7 @@
 
 #### <div align="justify">I am pursuing a degree in Information Technology at the University of Central Florida while actively seeking internships and research opportunities to gain practical experience. My goal is to apply my knowledge, develop expertise, and collaborate with industry professionals to become a well-rounded candidate.
 
-## Cryptography Projects
+## 🔐 Cryptography Projects
 
 - **[ElGamal Encryption](https://github.com/jerryw4n/ElGamalDecoder)**
 - **[RSA Encryption](https://github.com/jerryw4n/RSAEncryptionDecoder)**
@@ -12,11 +12,11 @@
 - **[Playfair Cipher](https://github.com/jerryw4n/playfairEncoder)**
 - **[Affine Cipher](https://github.com/jerryw4n/affineEncoder)**
 
-## Class Projects
+## 💻 Class Projects
 
 - **[Connect Four](https://github.com/jerryw4n/connectFourReactJS)**
 - **[Pet Care Website](https://github.com/jerryw4n/PetCareWebsite)**
 
-## Connect With Me
+## 🌐 Connect With Me
 
 - **[LinkedIn](https://www.linkedin.com/in/jerryw4ng/)**
