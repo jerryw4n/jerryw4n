@@ -6,11 +6,13 @@
 
 ## 🔐 Cryptography Projects
 
-- **[ElGamal Encryption](https://github.com/jerryw4n/ElGamalDecoder)**
-- **[RSA Encryption](https://github.com/jerryw4n/RSAEncryptionDecoder)**
-- **[Vigenere Cipher](https://github.com/jerryw4n/vigenereDecoder)**
-- **[Playfair Cipher](https://github.com/jerryw4n/playfairEncoder)**
-- **[Affine Cipher](https://github.com/jerryw4n/affineEncoder)**
+- **[ElGamal Encryption (Decode)](https://github.com/jerryw4n/ElGamalDecoder)**
+- **[RSA Encryption (Decode)](https://github.com/jerryw4n/RSAEncryptionDecoder)**
+- **[Vigenere Cipher (Decode)](https://github.com/jerryw4n/vigenereDecoder)**
+- **[Playfair Cipher (Encode)](https://github.com/jerryw4n/playfairEncoder)**
+- **[Affine Cipher (Encode)](https://github.com/jerryw4n/affineEncoder)**
+- **[Affine Cipher (Decode)](https://github.com/jerryw4n/affineDecoder)**
+- **[Caesar/Shift Cipher (Decode)](https://github.com/jerryw4n/shiftDecoder)**
 
 ## 💻 Class Projects
 
