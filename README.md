@@ -10,8 +10,8 @@
 - **[RSA Encryption (Decode)](https://github.com/jerryw4n/RSAEncryptionDecoder)**
 - **[Vigenere Cipher (Decode)](https://github.com/jerryw4n/vigenereDecoder)**
 - **[Playfair Cipher (Encode)](https://github.com/jerryw4n/playfairEncoder)**
-- **[Affine Cipher (Encode)](https://github.com/jerryw4n/affineEncoder)**
 - **[Affine Cipher (Decode)](https://github.com/jerryw4n/affineDecoder)**
+- **[Affine Cipher (Encode)](https://github.com/jerryw4n/affineEncoder)**
 - **[Caesar/Shift Cipher (Decode)](https://github.com/jerryw4n/shiftDecoder)**
 
 ## 💻 Class Projects
