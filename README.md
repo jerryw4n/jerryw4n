@@ -14,6 +14,9 @@
 
 ## 💻 Class Projects
 
+- **[Two-Tier Client-Server Application Using MySQL and JDBC](https://github.com/jerryw4n/JDBC-Client-Server-App)**
+- **[Multi-threaded Programming](https://github.com/jerryw4n/Multi-threadedProgramming)**
+- **[Event Driven Programming](https://github.com/jerryw4n/EventDrivenProgramming)**
 - **[Connect Four](https://github.com/jerryw4n/connectFour)**
 - **[Pet Care Website](https://github.com/jerryw4n/PetCareWebsite)**
 
